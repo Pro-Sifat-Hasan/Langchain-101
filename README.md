@@ -59,7 +59,7 @@ To get started with this repository, follow these steps:
 Here’s an overview of the repository structure:
 
 ```
-LangChain-101/
+LangChain-101/Langchain chat with your data/
 ├── 01_document_loading.ipynb        # Document loading techniques
 ├── 02_document_splitting.ipynb      # Document splitting methods
 ├── 03_vectorstores_and_embeddings.ipynb  # Vector stores and embeddings
