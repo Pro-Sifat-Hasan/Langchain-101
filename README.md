@@ -1,6 +1,6 @@
 # 🚀 LangChain 101: A Complete Guide for Learning AI Development
 
-[![048e762e-4532-474d-9d15-f4660b61b176.webp](https://i.postimg.cc/k4PxNjWn/048e762e-4532-474d-9d15-f4660b61b176.webp)](https://postimg.cc/67z2tfHS)
+[![Adobe-Express-file-1.jpg](https://i.postimg.cc/PxfqkYjW/Adobe-Express-file-1.jpg)](https://postimg.cc/t1fb317J)
 
 Welcome to **Pro-Sifat-Hasan/LangChain-101**! This repository is a beginner-friendly guide to learning LangChain, a powerful framework for building AI applications. Whether you're new to AI or looking to expand your skills, this repository will help you understand and experiment with LangChain.
 
