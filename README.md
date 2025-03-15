@@ -38,19 +38,19 @@ To get started with this repository, follow these steps:
    ```bash
    git clone https://github.com/Pro-Sifat-Hasan/LangChain-101.git
    cd LangChain-101
-```
+   ```
    
 2. **Set Up Your Environment**:
    Ensure you have Python installed. You can install LangChain and other dependencies as needed by running:
    ```bash
    pip install langchain
-```
+   ```
 
 3. **Run Jupyter Notebooks**:
    Launch Jupyter Notebook and explore the notebooks in the repository:
    ```bash
    jupyter notebook
-```
+   ```
 
 ---
 
@@ -85,15 +85,15 @@ Contributions are welcome! If you have any improvements, bug fixes, or new featu
 2. **Create a new branch**:
    ```bash
    git checkout -b feature/YourFeatureName
-```
+   ```
 3. **Commit your changes**:
    ```bash
    git commit -m 'Add some feature'
-```
+   ```
 4. **Push to the branch**:
    ```bash
    git push origin feature/YourFeatureName
-```
+   ```
 5. **Open a pull request.*
 
 ---
